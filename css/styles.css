@@ -1,0 +1,92 @@
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+body {
+  font-family: 'Montserrat';
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: Ubuntu;
+}
+
+.item {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+  padding-left: 0;
+}
+
+ /* Download buttons */
+
+ .download-button {
+   margin: 5% 3% 5% 0;
+ }
+
+
+  /* Title Image */
+
+  .title-image {
+    width: 60%;
+    transform: rotateZ(25deg);
+  }
+
+ /* Icon styling */
+
+ .fas {
+   font-size: 4rem;
+   padding-bottom: 1rem;
+   color: #ef8172;
+ }
+
+ .fas:hover {
+   color: #ff4c68;
+ }
+
+/* Features section */
+
+
+
+.features-section {
+  text-align: center;
+  line-height: 2;
+  padding: 10% 3%;
+
+}
+
+.features-h3 {
+  font-family: 'Montserrat' ;
+  font-weight: 900;
+}
+
+.features-div {
+  padding-bottom: 1.5rem;
+}
